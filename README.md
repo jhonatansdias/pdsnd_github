@@ -17,6 +17,8 @@ within the period in which the data were collected. The period analyzed is the f
 For the development of the project, we use the python programming language and the modules
 numpy, panda. All development was carried out with the help of Anaconda's command terminal.
 
+To
+
 ### Files used
 bikeshare.py 
 chicago.csv 
@@ -29,10 +31,12 @@ The following are references used to assist me in this project:
 https://stackoverflow.com/questions/26318995/installing-numpy-via-anaconda-in-windows
 https://knowledge.udacity.com/questions/643740
 https://knowledge.udacity.com/questions/653807
+https://realpython.com/installing-python/ (Used the guide to install python)
 
 For same practice:
 https://www.hackerrank.com/
 https://www.w3resource.com/python-exercises/
+https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
 
 All data were provided by Motivate, a sharing systems provider
 of bicycles in big cities in the United States,
