@@ -17,10 +17,10 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
-
+    city_dict = {'c':'chicago','n':'new york city','w':'washington','chicago':'chicago','new york city':'new york city','washington':'washington'}
 
     # get user input for month (all, january, february, ... , june)
-
+    month_dict = {'all':'all','january':'january','february':'february','march':'march','april':'april','may':'may','june':'june'}
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
 
