@@ -39,7 +39,7 @@ https://www.w3resource.com/python-exercises/
 https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
 
 All data were provided by Motivate, a sharing systems provider
-of bicycles in big cities in the United States,
+of bicycles in big cities in the United States
 
 
 
